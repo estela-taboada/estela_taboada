@@ -12,7 +12,7 @@ Transformo datos operativos y comerciales en tableros interactivos y decisiones 
 
 ---
 
-## 📊 Proyectos Destacados
+## 📊 Proyectos Destacados:
 
 * **[Optimización de Márgenes y Logística de Delivery | Python](https://github.com/estela-taboada/optimizacion-margenes-logistica-delivery)**
   Análisis de rentabilidad operativa, estructura de costos logísticos y detección de fugas de margen en servicios de entrega.

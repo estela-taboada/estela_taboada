@@ -23,7 +23,7 @@ Transformo datos operativos y comerciales en tableros interactivos y decisiones 
 * **[Optimización de Ventas y Operaciones | Maven Pizza Challenge](https://github.com/estela-taboada/Maven-s-Pizza-Challenge)**
   Análisis de desempeño comercial, identificación de horas pico, mix de productos más rentables y propuestas para optimizar la capacidad operativa.
 
-* **[Análisis de Incidencia Delictiva en México (2025) | EDA](https://github.com/estela-taboada/Analisis_Incidencia_Delictiva_Mexico)**
+* **[Análisis de Incidencia Delictiva en México (2025) | SQL · Power BI](https://github.com/estela-taboada/Analisis_Incidencia_Delictiva_Mexico)**
   Limpieza, estructuración y análisis exploratorio de datos públicos para identificar tendencias geográficas, estacionalidad y patrones de riesgo.
 
 * **[Análisis de Popularidad y Tendencias Musicales | Spotify |SQL](https://github.com/estela-taboada/Analisis_spotify)**

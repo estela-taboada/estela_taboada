@@ -26,7 +26,7 @@ Transformo datos operativos y comerciales en tableros interactivos y decisiones 
 * **[Análisis de Incidencia Delictiva en México (2025) | EDA](https://github.com/estela-taboada/Analisis_Incidencia_Delictiva_Mexico)**
   Limpieza, estructuración y análisis exploratorio de datos públicos para identificar tendencias geográficas, estacionalidad y patrones de riesgo.
 
-* **[Análisis de Popularidad y Tendencias Musicales | Spotify](https://github.com/estela-taboada/Analisis_spotify)**
+* **[Análisis de Popularidad y Tendencias Musicales | Spotify |SQL](https://github.com/estela-taboada/Analisis_spotify)**
   Exploración estadística de métricas de rendimiento, correlación de variables de audio y segmentación de patrones de consumo.
   
 * **[Movilidad Urbana e Impacto Económico | Python](https://github.com/estela-taboada/Mobilidad_urbana_eda_python)**

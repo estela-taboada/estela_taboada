@@ -28,7 +28,9 @@ Transformo datos operativos y comerciales en tableros interactivos y decisiones 
 
 * **[Análisis de Popularidad y Tendencias Musicales | Spotify](https://github.com/estela-taboada/Analisis_spotify)**
   Exploración estadística de métricas de rendimiento, correlación de variables de audio y segmentación de patrones de consumo.
-
+  
+* **[Movilidad Urbana e Impacto Económico | Python](https://github.com/estela-taboada/Mobilidad_urbana_eda_python)**
+  Limpieza de datos a gran escala, análisis exploratorio estadístico y visualización de patrones de congestión vehicular.
 ---
 
 ### 📬 Conectemos

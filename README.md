@@ -17,9 +17,6 @@ Transformo datos operativos y comerciales en tableros interactivos y decisiones 
 * **[Optimización de Márgenes y Logística de Delivery | Python](https://github.com/estela-taboada/optimizacion-margenes-logistica-delivery)**
   Análisis de rentabilidad operativa, estructura de costos logísticos y detección de fugas de margen en servicios de entrega.
 
-* **[Auditoría de Mercado y Caso de Negocio: Global Food Delivery 2026](https://github.com/estela-taboada/global_food_delivery_enriched_market_2026.csv)**
-  Evaluación integral de datos comerciales, diagnóstico de calidad de información y planteamiento estratégico para la toma de decisiones.
-
 * **[Optimización de Ventas y Operaciones | Maven Pizza Challenge](https://github.com/estela-taboada/Maven-s-Pizza-Challenge)**
   Análisis de desempeño comercial, identificación de horas pico, mix de productos más rentables y propuestas para optimizar la capacidad operativa.
 
